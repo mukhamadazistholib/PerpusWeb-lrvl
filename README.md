@@ -2,17 +2,30 @@
 
 ## User Diagram:
 
-**Admin**
+<details>
+  <summary>Admin</summary>
+  
+  ### Admin
+    - email: admin@gmail.com
+    - Password: 123123123
 
-- email: admin@gmail.com
-- Password: 123123123
+</details>
 
-**Petuags**
+<details>
+  <summary>Petugas</summary>
+  
+  ### Petugas
+    - email: petugas@gmail.com
+    - Password: 123123123
 
-- email: petugas@gmail.com
-- Password: 123123123
+</details>
 
-**Peminjam**
+<details>
+  <summary>Peminjam</summary>
+  
+  ### Petugas
+    - email: peminjam@gmail.com
+    - Password: 123123123
 
-- email: peminjam@gmail.com
-- Password: 123123123
+</details>
+
