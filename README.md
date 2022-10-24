@@ -1,18 +1,5 @@
 # PerpusWeb-Laravel
 
-## Features: 
-- Autentikasi Admin, Petugas dan Peminjam
-- CRUD Kategori
-- CRUD Buku
-- CRUD Penerbit
-- CRUD Rak
-- Melakukan peminjaman buku
-- Menampilkan chart
-- Mengimplementasikan livewire
-- Menggunakan admin LTE
-- Menggunakan fakerphp
-- Dan lain-lain
-
 ## User Diagram:
 
 **Admin**
